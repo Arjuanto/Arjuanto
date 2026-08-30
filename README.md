@@ -11,3 +11,6 @@ Saya seorang Mahasiswa Institut Sains dan Bisnis Atma Luhur yang sedang mengikut
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Arjuanto&layout=compact&layout=compact&theme=algolia"/>
 </a>
 </p>
+<a href="mailto:emailanda@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
